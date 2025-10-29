@@ -1,9 +1,9 @@
-# IWT Project — Medi-Caps University (3rd Semester)
+# IWT Project — Medi-Caps University
 
 **Student:** Soumya Bhate  
 **Instructor:** Prof. Prashant Panse
 
-This repository contains a basic Internet & Web Technology (IWT) project from my B.Tech (3rd semester) at **Medi-Caps University**.
+This repository contains a basic Internet & Web Technology (IWT) project from my B.Tech (3rd semester) at **Medi-Caps University** where I was learning how to create a webpage via HTML and CSS.
 
 I'm re-adding it here because a few things I built earlier got lost. Keeping this project documented reminds me of my progress and skill development — from the first HTML/CSS pages to wiring simple JavaScript interactions.
 
