@@ -3,11 +3,9 @@
 **Student:** Soumya Bhate  
 **Instructor:** Prof. Prashant Panse
 
-This repository contains a basic Internet & Web Technology (IWT) project from my B.Tech (3rd semester) at **Medi-Caps University** where I was learning how to create a webpage via HTML and CSS. **This project is special to me because I built it from scratch—everything from adding HTML headers to choosing the colour palette for my About page—back when GPT wasn’t as popular as it is today.**
+This repository contains a basic Internet & Web Technology (IWT) project from my B.Tech (3rd semester) at **Medi-Caps University** where I was learning how to create a webpage via HTML and CSS. I'm re-adding it here because a few things I built earlier got lost. Keeping this project documented reminds me of my progress and skill development — from the first HTML/CSS pages to wiring simple JavaScript interactions.
 
-I'm re-adding it here because a few things I built earlier got lost. Keeping this project documented reminds me of my progress and skill development — from the first HTML/CSS pages to wiring simple JavaScript interactions.
-
-> **Why this repo matters to me:** It's a snapshot of where I started, the fundamentals I learned, and the confidence I built shipping a working web project.
+> **This project is special to me because I built it from scratch—everything from adding HTML headers to choosing the colour palette for my About page—back when GPT wasn’t as popular as it is today.**
 
 ## Project Overview
 A static website built using **HTML**, **CSS**, and a bit of **JavaScript** (as covered in IWT). The focus was on clean structure, basic components, and simple interactivity.
