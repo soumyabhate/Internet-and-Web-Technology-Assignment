@@ -1,0 +1,48 @@
+p{ 
+    margin:0; 
+}
+
+#quote{
+	height: 110px;
+	font-family: Dancing Script, cursive;
+    background-color: #ff9999;
+    color: white;
+}
+.image{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 50%;
+}
+#picture{
+    background-image: url("img7.jpg");
+	background-position-x: center;
+	background-size: cover;
+	background-repeat: no-repeat
+}
+#intro{
+    display: block;
+	margin-left: auto;
+	margin-right: auto;
+	color:#660033;
+	height: 60px;
+	font-family: Fredericka the Great, cursive;
+	background-color: #ffff99;
+}
+#text{
+	color: #000033;
+	height: 125px;
+	font-family: Caveat Brush, cursive;
+	font-size: 19px;
+	background-color: #99ffb3;
+}
+#contact{
+	margin-top: 0px;
+	color: black;
+	font-family: Caveat Brush, cursive;
+	background-color: #b399ff;
+	height: 180px;
+}
+.next{
+	font-family: Caveat Brush, cursive;
+}
