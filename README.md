@@ -21,7 +21,7 @@ A static website built using **HTML**, **CSS**, and a bit of **JavaScript** (as 
 
 | File                           | HTML <title>   | Inferred Purpose   |
 |:-------------------------------|:---------------|:-------------------|
-| IWT.github.io-master/First.css | -              | Core page / asset  |
+| IWT.github.io-master/First.css | index.htm      | Core page / asset  |
 
 ## How to View/Run
 1. Download/clone this repository.
